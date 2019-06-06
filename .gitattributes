@@ -1,2 +1,3 @@
 HQ_ResidentialHouse/ filter=lfs diff=lfs merge=lfs -text
 FirstPersonBP/ filter=lfs diff=lfs merge=lfs -text
+TP1_Abecasis_Novak/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
